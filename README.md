@@ -57,7 +57,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 1.1.5 Risks detected
 
 •	Project risks: 
-   ##### o	Unclear, ambiguous and incomplete business requirements
+   __Unclear, ambiguous and incomplete business requirements__
    ##### o	Inability to manage a large volume of requests during peak periods
    ##### o	Integration problems with external systems
    
