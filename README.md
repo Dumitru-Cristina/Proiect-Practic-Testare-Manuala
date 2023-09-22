@@ -116,7 +116,7 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.6 Test Execution
 
 * Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Comenzi_created_bugs.pdf](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/blob/main/Traceability%20matrix.xlsx)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Comenzi_created_bugs.pdf](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/blob/main/Comenzi_created_bugs.pdf))
    * The Comenzi section does not display any message when the customer has not placed any order yet
    * The user cannot cancel an order that has not been shipped yet from the Comenzi section
 * Full regression testing is needed after the bugs are fixed
