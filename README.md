@@ -99,7 +99,7 @@ Functional test cases were created in Zephyr Squad.
 
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [Comenzi_test_cases.pdf](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/blob/main/Comenzi_test_cases.pdf)
 
 ## 1.5 Test Implementation
 
