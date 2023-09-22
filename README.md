@@ -30,24 +30,24 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
-•	Project manager – Marian Dragomir
-##### •	Product owner – Ana Maria Dumitrache
-##### •	Software developer – Ioana Lazar
-##### •	QA Engineer – Cristina Dumitru
+   ##### •	Project manager – Marian Dragomir
+   ##### •	Product owner – Ana Maria Dumitrache
+   ##### •	Software developer – Ioana Lazar
+   ##### •	QA Engineer – Cristina Dumitru
 
 #### 1.1.2 Entry criteria defined
 
-•	functional specifications are defined
-##### •	roles needed for the project are allocated
-##### •	initial project risks were detected and mitigated
+  ##### •	functional specifications are defined
+  ##### •	roles needed for the project are allocated
+  ##### •	initial project risks were detected and mitigated
 
 #### 1.1.3 Exit criteria defined
 
-•	all tests have been executed
-•	all resolved bugs have been re-tested and approved by the QA team
-•	deadline was reached
-•	no detected major risk remained un-mitigated
-•	exploratory regression testing must be performed on the Cont module, which includes the Comenzi section
+##### •	all tests have been executed
+##### •	all resolved bugs have been re-tested and approved by the QA team
+##### •	deadline was reached
+##### •	no detected major risk remained un-mitigated
+##### •	exploratory regression testing must be performed on the Cont module, which includes the Comenzi section
 
 #### 1.1.4 Test scope
 
