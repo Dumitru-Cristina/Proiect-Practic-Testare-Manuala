@@ -32,8 +32,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 •	Project manager – Marian Dragomir
 # •	Product owner – Ana Maria Dumitrache
-###•	Software developer – Ioana Lazar
-#####•	QA Engineer – Cristina Dumitru
+### •	Software developer – Ioana Lazar
+##### •	QA Engineer – Cristina Dumitru
 
 #### 1.1.2 Entry criteria defined
 
