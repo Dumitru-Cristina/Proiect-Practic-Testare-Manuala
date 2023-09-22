@@ -38,8 +38,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 1.1.2 Entry criteria defined
 
 •	functional specifications are defined
-•	roles needed for the project are allocated
-•	initial project risks were detected and mitigated
+##### •	roles needed for the project are allocated
+##### •	initial project risks were detected and mitigated
 
 #### 1.1.3 Exit criteria defined
 
