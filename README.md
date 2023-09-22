@@ -115,7 +115,7 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: Dependents_cycle_summary_execution.pdf
+* Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf]()
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: Dependents_created_bugs.pdf
    * The Comenzi section does not display any message when the customer has not placed any order yet
    * The user cannot cancel an order that has not been shipped yet from the Comenzi section
