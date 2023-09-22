@@ -14,7 +14,10 @@ Tools used: JIRA, Zephyr Squad
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+-> The below Story was created in JIRA and describes the functional specifications of the Comenzi module, for which the final project is performed upon.
+
+![image](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/assets/130222619/e5f419a7-b0af-4832-8edd-53e6f2e8068f)
+
 
 
 # 1 Testing section
