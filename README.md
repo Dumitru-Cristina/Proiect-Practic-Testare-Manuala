@@ -126,3 +126,13 @@ The following elements are needed to be ready before the test execution phase be
 
 
 # 2 Conclusions
+
+During testing, all 6 stories were covered, and 15 tests were written and executed.
+
+In the testing process, a total of 2 bugs were identified, whose priorities are: 1- medium and 1- high, each having an impact on functionality and user experience.
+
+* The first bug consists in the lack of a message or information when a customer has not yet placed an order. The absence of any message or indicator could lead to frustration and confusion, ultimately leading to a negative user experience.
+* The second bug consists in the inability of the user to cancel an order that has not yet been shipped. It prevents users from efficiently managing their orders, potentially causing frustration and dissatisfaction. Users expect to be in control of their orders and may lose confidence in the platform due to this limitation.
+
+Addressing these issues promptly is essential to ensure a seamless user experience and maintain user trust. Rigorous patch testing, coupled with comprehensive regression testing, is vital to verify that patches fix problems without introducing new defects. Collaboration between the development and testing teams is imperative to quickly resolve these errors and provide an accurate, functional and easy-to-use order tracking feature for Altex.ro users.
+
