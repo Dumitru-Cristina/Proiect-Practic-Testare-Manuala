@@ -57,14 +57,17 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 •	Project risks: 
 * Unclear, ambiguous and incomplete business requirements
-* Inability to manage a large volume of requests during peak periods
-* Integration problems with external systems
+* Low qualification of team members
+* Inadequate configuration of the test environment
+* Tight deadline
+* Poor management
    
 •	Product risks: 
 * Incorrect display of commands
 * Vulnerable security
 * Complex and unintuitive interface
 * Incorrect order status display
+* Missing information for certain orders
 
 
 
