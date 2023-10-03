@@ -7,7 +7,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 Application under test: https://altex.ro/
 
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/edit/main/README.md#1-testing-section) and [SQL section](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/edit/main/README.md#2-sql-section).**
+**The final project will be split into 2 sections: [Testing section](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/edit/main/README.md#1-testing-section) and [Conclusions](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/edit/main/README.md#2-sql-section).**
 
 Tools used: JIRA, Zephyr Squad
 
@@ -70,7 +70,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.6 Evaluating entry criteria
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue. 
 
 ## 1.2 Test Monitoring and Control
 
@@ -83,21 +83,12 @@ Various periodic reports were generated to reflect the current status of the tes
 
 The testing process will be executed based on the above requirements for the Comenzi module. The following test conditions were found:
 
-* View Comenzi details and check if they are correct
-* View all the orders in a list
-* Check if I can cancel an order
-* Check if the status of the order is correct
+*![image](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/assets/130222619/3c6f3fb0-e115-45ac-b1b2-9ffd1e5b274b)
 
 
 ## 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad. 
-
-**Test cases:**
-
-![image](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/assets/130222619/3c6f3fb0-e115-45ac-b1b2-9ffd1e5b274b)
-
-
 
 The test cases with steps can be viewed here: [Comenzi_test_cases.pdf](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/blob/main/Comenzi_test_cases.pdf)
 
@@ -131,7 +122,7 @@ The following elements are needed to be ready before the test execution phase be
 * A number of 15 test cases were planned for execution and all of them were executed
 * A number of 2 total bugs were found, from which the priority is: 1 is medium and 1 is high
 
-![image](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/assets/130222619/b118599e-7751-472b-9556-9945bacaff57)
+![image](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/assets/130222619/be180141-53f1-42ff-bce0-d173043276c1)
 
 
-# 2 SQL section
+# 2 Conclusions
