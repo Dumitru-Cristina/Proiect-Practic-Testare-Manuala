@@ -7,7 +7,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 Application under test: https://altex.ro/
 
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/edit/main/README.md#1-testing-section) and [Conclusions](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/edit/main/README.md#2-Conclusions).**
+**The final project will be split into 2 sections: [Testing section](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/edit/main/README.md#1-testing-section) and [Conclusions](https://github.com/Dumitru-Cristina/Proiect-Practic-Testare-Manuala/tree/main#2-conclusions).**
 
 Tools used: JIRA, Zephyr Squad
 
