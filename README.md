@@ -56,18 +56,18 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 1.1.5 Risks detected
 
 •	Project risks: 
-* Unclear, ambiguous and incomplete business requirements
-* Low qualification of team members
-* Inadequate configuration of the test environment
-* Tight deadline
-* Poor management
+* The risk that the business requirements are unclear, ambiguous and incomplete
+* The risk that the configuration of the test environment is inadequate
+* The risk that team members are inexperienced
+* Tight deadline risk
+* Risk of poor management
    
 •	Product risks: 
-* Incorrect display of commands
-* Vulnerable security
-* Complex and unintuitive interface
-* Incorrect order status display
-* Missing information for certain orders
+* Risk of incorrect display of orders
+* Risk of missing information for certain orders
+* Security risk
+* Risk of incorrect display of order statuses
+* Risc de interfață complexa și neintuitiva
 
 
 
