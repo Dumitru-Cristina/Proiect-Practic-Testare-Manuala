@@ -67,7 +67,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 * Risk of missing information for certain orders
 * Security risk
 * Risk of incorrect display of order statuses
-* Risc de interfață complexa și neintuitiva
+* Risk of complex and unintuitive interface
 
 
 
